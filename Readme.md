@@ -25,5 +25,10 @@ Haryie used to help me on this, but they have unfortunately passed away.
 
 If you want your game/app removed from this, Contact me at RetroJBOT@hotmail.com
 
+Install JWOS by opening os_setup.bat
+
+and boot it by opening os_boot.bat
+
+to skip boot, open os_menu.bat
 
 Thanks.
